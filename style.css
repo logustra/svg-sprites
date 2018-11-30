@@ -1,0 +1,14 @@
+.si {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+}
+
+.si {
+    font-size: 24px;
+    color: blue;
+    margin: 15px;
+}
