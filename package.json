@@ -4,6 +4,10 @@
   "description": "create svg-sprites with webpack 4",
   "author": "Faizal Andyka",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/logustra/svg-sprites"
+  },
   "scripts": {
     "start": "yarn build && yarn dev",
     "dev": "NODE_ENV=development webpack-dev-server --config webpack.development",
